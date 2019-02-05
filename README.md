@@ -1,2 +1,2 @@
-# ALIENS-R-REAL
-![result](static/images/FireShot Capture 8 - UFO Finder - https___ananyay.github.io_ALIENS-R-REAL_.png)
+# Link to the website [ALIENS-R-REAL](https://ananyay.github.io/ALIENS-R-REAL/)
+![result](static/images/result.jpg)
